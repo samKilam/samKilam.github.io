@@ -1067,7 +1067,7 @@ li.widget_media_image,
     margin: 0  auto;
 }
 .hero-video-sec-full {
-    text-align: -webkit-right;
+    text-align: -webkit-center;
 }
 #expand , #expand1 {
   min-height: 400px;
